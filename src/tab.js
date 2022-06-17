@@ -1,0 +1,1 @@
+export const tab=()=>console.log('创建了tab切换');

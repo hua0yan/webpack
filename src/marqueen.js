@@ -1,0 +1,1 @@
+export const marqueen=()=>console.log('创建了轮播图');
